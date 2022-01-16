@@ -3,7 +3,7 @@
 //10-iyun sanasi 10:00 da
 //@iCoderNet Dan maxsus
 ob_start();
-define('API_KEY','1715557364:AAEjBL1QfbtjQ-e23QbbL2l1_8kVEf2JCw');
+define('API_KEY','5037169955:AAF6W9xsnomRv-HtKBF3GeaPB64TGXwPPLc');
 $botim = "iCoderNet";
 $admin = array("[*ADMIN*]","1229100259","1229100259");
    function del($nomi){
