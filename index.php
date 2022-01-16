@@ -1,7 +1,7 @@
 
 <?php
 ob_start();
-define('API_KEY','BOTINGIZ TOKENI');
+define('API_KEY','5037169955:AAExVn4pwLZZ17QqS0knw31IXL2LOGFRlZM');
 //tokenni yozing
 // @phpuz va @bots_uz ga a'zo bo'ling
 $admin = "admin id si"; 
